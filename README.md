@@ -12,6 +12,8 @@
 - [JackyST0/awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills) — 中文精选 AI Agent Skills
 - [liatrio-labs/ai-prompts](https://github.com/liatrio-labs/ai-prompts) — 按工作流分目录的 prompts
 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — 126.9k★ 的 100+ 开源 AI Agents / Agent Skills / RAG Apps 模板库；`agent_skills/` 目录过安全+评测 CI 门禁、可 `npx skills add` 一键装，starter 层单文件跑（只需 API key）适合学生；Apache-2.0
+
 ## 二、人格/角色 + 系统提示词合集（贴近 agency-agents）
 - [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) — 可机读提示词索引（PROMPT-INDEX.json）
 - [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) — 各 coding agent 系统提示词大合集
