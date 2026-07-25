@@ -28,5 +28,8 @@
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) — GPT 向提示工程精选
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) — GPTs Store 高分提示词
 
-## 四、已 star 对照组
+## 四、图像/多模态生成提示词与 Agent Skill
+- [NanmiCoder/open-image-prompts](https://github.com/NanmiCoder/open-image-prompts) — 22★ 本地优先的可溯源视觉提示词归档；含 14,693 条源提示词、4,496 张已批准本地图片，每条约含 author / source_url / license；两个可安装 Agent Skill（`img-gen-taste` 定艺术方向，`img-gen-prompts` 检索可溯源提示词-图片并开本地画廊）。MIT 代码，数据单独授权。
+
+## 五、已 star 对照组
 - [mattpocock/skills](https://github.com/mattpocock/skills) · [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) · [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) · [liyupi/ai-guide](https://github.com/liyupi/ai-guide) · [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) · [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) · [redfox-data/redfox-community](https://github.com/redfox-data/redfox-community)

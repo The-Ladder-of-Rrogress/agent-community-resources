@@ -9,6 +9,7 @@
 - `exports/` — 已发布到频道的资源卡 PNG（2x）：
   - `拼好模-教学种子资源卡.png` — `/teach` + `/writing-great-skills` 学生向种子卡（资源精选）
   - `拼好模-DESIGN.md资源卡.png` — Google Labs `DESIGN.md` 项目卡（资源精选）
+  - `拼好模-open-image-prompts资源卡.png` — NanmiCoder/open-image-prompts 可溯源视觉提示词归档卡（资源精选）
 - `skills/pinhaomo-resource-card/SKILL.md` — 资源卡制作项目级 skill（双路线：Ardot 设计 / Pillow 代码生成）。
 
 ## 使用
